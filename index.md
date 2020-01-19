@@ -1,7 +1,6 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
 
 ![Image of kibernetika.ai logo](images/kibernetika_logo_2.png)
 
-## This is a title
+## Kibernetika.AI Blog
 
-And you can include links, like this [link to kibernetika.ai](https://www.kibernetika.ai). Posts will appear after this file. 
+[www.kibernetika.ai](https://www.kibernetika.ai)
